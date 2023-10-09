@@ -7,6 +7,7 @@ const Header = (props) => {
 
     return (
         <div className={'header'}>
+            <span>Exchange bot. MVP v.0.2</span>
             <span className={'username'}>
                 {user?.username}
             </span>

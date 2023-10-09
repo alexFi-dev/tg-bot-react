@@ -98,7 +98,6 @@
       bottom: 0.3em;
       width: 1.55em;
       background-color: #ececec;
-      background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #ececec));
       background-image: -webkit-linear-gradient(top, white, #ececec);
       background-image: -moz-linear-gradient(top, white, #ececec);
       background-image: -ms-linear-gradient(top, white, #ececec);

@@ -120,29 +120,6 @@ const MVP = (props) => {
                         </span>
                         </td>
                     </tr>
-                    <tr className="us-form">
-                        <th>big</th>
-                        <td className="unwrap">
-                        <select>
-                            <option value="selectbox_9">select box</option>
-                            <option value="option1_9">option 1</option>
-                            <option value="option2_9">option 2</option>
-                            <option value="option3_9">option 3</option>
-                            <option value="optio4_9">option 4</option>
-                        </select>
-                        </td>
-                        <td>
-                        <span className="us-form-select-wrap">
-                        <select>
-                            <option value="selectbox_10">select box</option>
-                            <option value="option1_10">option 1</option>
-                            <option value="option2_10">option 2</option>
-                            <option value="option3_10">option 3</option>
-                            <option value="optio4_10">option 4</option>
-                        </select>
-                        </span>
-                        </td>
-                    </tr>
                 </tbody>
                 </table>
             </form>
