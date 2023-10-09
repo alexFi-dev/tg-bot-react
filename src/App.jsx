@@ -18,8 +18,6 @@ function App() {
     <>
       <Header />
       <Mobiscroll />
-      <MVP />
-      <Button onClick={onToggleButton}>toggle</Button>
     </>
   )
 }
